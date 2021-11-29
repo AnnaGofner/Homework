@@ -1,0 +1,7 @@
+Ivanov 12000
+Petrov 13000
+Sidorov 25000
+Vasilev 14000
+Cavelev 21000
+Kliachkin 18700
+Sobachkin 14900
